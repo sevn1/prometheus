@@ -4,6 +4,6 @@
 
 ##文件说明
 
-**prometheus.go**  单指标采集器
+**prometheus.go**  单指标采集器（在默认采集数据后新增）
 
-**prometheusMore.go**  集群的指标采集器
+**prometheusMore.go**  集群的指标采集器（在默认采集数据后新增）
