@@ -2,6 +2,9 @@
 
 学习golang-prometheus服务器监控
 
+## Prometheus 非官方中文手册
+https://github.com/1046102779/prometheus
+
 ## 文件说明
 
 **prometheus.go**  单指标采集器（在默认采集数据后新增）
